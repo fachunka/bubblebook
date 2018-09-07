@@ -3,8 +3,8 @@ Bubblebook is a mini-game, taking a light-hearted look at the phenomenon of "fil
 
 You can see the game here: [bubblebook](http://kevanmurtagh.com/bubblebook/).
 
-Photos taken from [randomuser.me](https://randomuser.me).
-
 Kev.
+
+Photos taken from [randomuser.me](https://randomuser.me).
 
 
